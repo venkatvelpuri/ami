@@ -1,4 +1,4 @@
-0.1.1
+.1.1
 
 * Removed sysstat
 * Configured SSH for security scan. PAAS-568
